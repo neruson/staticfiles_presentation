@@ -5,3 +5,4 @@
 * [How Do I Tell CloudFlare What to Cache?](https://support.cloudflare.com/hc/en-us/articles/202775670-How-Do-I-Tell-CloudFlare-What-to-Cache-)
 * [How content delivery networks (CDNs) work](http://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 * [Content Delivery Network definition](http://searchaws.techtarget.com/definition/content-delivery-network-CDN)
+* [How do I use CloudFlare with Amazon's S3 Service?](https://support.cloudflare.com/hc/en-us/articles/200168926-How-do-I-use-CloudFlare-with-Amazon-s-S3-Service-)

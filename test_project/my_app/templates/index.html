@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% load static from staticfiles %}
+
+{% block title %}Test Page{% endblock title %}
+
+{% block content %}
+<img src="{% static 'images/adamec.png'%}" alt="David Adamec">
+{% endblock content %}

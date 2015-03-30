@@ -6,3 +6,4 @@
 * [How content delivery networks (CDNs) work](http://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 * [Content Delivery Network definition](http://searchaws.techtarget.com/definition/content-delivery-network-CDN)
 * [How do I use CloudFlare with Amazon's S3 Service?](https://support.cloudflare.com/hc/en-us/articles/200168926-How-do-I-use-CloudFlare-with-Amazon-s-S3-Service-)
+* [Different CDN technologies: DNS Vs Anycast Routing](http://anuragbhatia.com/networking/different-cdn-technologies-dns-vs-anycast-routing/)
